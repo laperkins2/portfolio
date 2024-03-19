@@ -1,0 +1,28 @@
+/* body {
+  background-image: linear-gradient(to right, yellow, rgb(27, 25, 25));
+} */
+/* /* div {
+  position: relative;
+  width: 400px; */
+/* }
+#food {
+  text-align: left;
+} */
+a {
+  border: 2px solid balck;
+  border-radius: 12px;
+  background-color: whitesmoke;
+  color: gold;
+  text-decoration: none;
+  padding: 5px;
+}
+a:hover {
+  background-color: black;
+}
+#me {
+  float: left;
+  width: 126.5px;
+  margin: 5px;
+  border: solid black;
+  height: 188.25px;
+}
