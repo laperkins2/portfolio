@@ -5,9 +5,23 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
     <title>Document</title>
 
-    <link rel="stylesheet" href="bs.css" />
+    <link rel="stylesheet" href="booksale.css" />
   </head>
   <body>
+    <!-- ***** -->
+    <div class="toolbar">
+      <h1 class="brand">Cart Items</h1>
+      <br />
+      <p>
+        <a href="purchase.html">
+          Cart items:
+          <span id="addUp">0</span><br />
+          Price:
+          <span id="total">0</span><br />
+        </a>
+      </p>
+    </div>
+    <!-- ****** -->
     <div class="row">
       <h2 style="text-align: center">Catalog</h2>
       <!-- <div class="row" id="one"> -->
@@ -21,7 +35,11 @@
             <p>
               Book: My story of I how I got a second chance and didn't waste it!
             </p>
-            <p><button>Add to Cart</button></p>
+            <p>
+              <button data-id="1" data-price="25.99" data-title="my Biography">
+                Add to Cart
+              </button>
+            </p>
           </div>
         </div>
       </div>
@@ -33,9 +51,13 @@
             <img src="jakets.webp" alt="Tee Shirt" style="width: 15%" />
             <h1>Mentally Free Physicaly Confined</h1>
             <h2>T-shirt</h2>
-            <p class="price">$25.99</p>
+            <p class="price">$22.99</p>
             <p>T-shirt supporting and promoting my brand.</p>
-            <p><button>Add to Cart</button></p>
+            <p>
+              <button data-id="2" data-price="22.99" data-title="My T-shirt">
+                Add to Cart
+              </button>
+            </p>
           </div>
         </div>
       </div>
@@ -47,13 +69,19 @@
             <img src="mug.jpg" alt="Coffee Mug" style="width: 15%" />
             <h1>Mentally Free Physicaly Confined</h1>
             <h2>Coffee Cup Mugs</h2>
-            <p class="price">$25.99</p>
+            <p class="price">$10.99</p>
             <p>Enjoy you favorite beverage in a Hot/Cold mug</p>
-            <p><button>Add to Cart</button></p>
+            <p>
+              <button data-id="3" data-price="10.99" data-title="Coffee Mug">
+                Add to Cart
+              </button>
+            </p>
           </div>
         </div>
       </div>
+      <button onclick="deleteItems()">Clear</button>
       <!-- </div> -->
     </div>
+    <script src="booksale.js"></script>
   </body>
 </html>

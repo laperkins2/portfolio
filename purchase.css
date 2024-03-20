@@ -91,3 +91,20 @@ span.price {
   float: right;
   color: grey;
 }
+table {
+  width: 100%;
+  border-collapse: collapse;
+  text-align: left;
+}
+
+thead {
+  background-color: antiquewhite;
+}
+
+td {
+  padding: 5px;
+}
+
+tr:nth-child(even) {
+  background-color: azure;
+}
