@@ -1,15 +1,14 @@
-/* body {
-  background-image: linear-gradient(to right, yellow, rgb(27, 25, 25));
-} */
-/* /* div {
-  position: relative;
-  width: 400px; */
-/* }
-#food {
-  text-align: left;
-} */
+#steelers {
+  background-image: url('img/wp1828929.jpg');
+  width: 1500px;
+  height: 200px;
+}
+
+#dark {
+  color: white;
+}
 a {
-  border: 2px solid balck;
+  border: 2px solid black;
   border-radius: 12px;
   background-color: whitesmoke;
   color: gold;
