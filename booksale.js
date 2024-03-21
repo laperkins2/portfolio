@@ -16,7 +16,7 @@ if (localStorage.getItem('cart')) {
 
 updateCart();
 
-let btns = document.querySelectorAll('.col button');
+let btns = document.querySelectorAll('.card button');
 
 for (let i = 0; i < btns.length; i++) {
   let btn = btns[i];

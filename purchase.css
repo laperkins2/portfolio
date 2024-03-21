@@ -108,3 +108,8 @@ td {
 tr:nth-child(even) {
   background-color: azure;
 }
+#pad {
+  margin-left: 17.5%;
+  margin-right: 17.5%;
+  margin-top: 2%;
+}
