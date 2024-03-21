@@ -2,21 +2,23 @@
 
 ---
 
-This is a website implementing HTML, CSS, Bootstrap, JS for my capstone.
+This is a website showing my progress from the very first day I decided to enter the Full Stack Developer Bootcamp
 
 # About
 
 ---
 
-This capstone will showcase some insight about what I've learned so far in my first cohort. I will be implementing for-loops, building up the pages with bootstrap. Also building a flip card memory game matching my hobbies.
+This capstone will showcase some insight about what I've learned so far in my first cohort. I will be implementing a for-loop, if-else statement, tables, row, and columns building up the pages with bootstrap. Also building a flip card showing my current and future career plans. I have a portfolio page with screenshots showing my projects. There will also a short story about me with the option to purchase my biography and other materials. When you are ready to check out it will take you to a purchase form. That is not complete, but during the next cohort we will learn more about it.
 
 # Roadmap
 
 ---
 
-[x] about.html
-[x] script.js
-[x] bootstrap included
+[x] flip card [x] book checkout
+[x] html [x] picture overlay opacity
+[x] javascript [x] add to cart
+[x] bootstrap
+[x] css
 
 # Wirefram
 
@@ -35,7 +37,9 @@ Author: Louis Perkins -laperkins2@yahoo.com
 
 ---
 
--
+-Robert McCreary Mannino- Instructor
+
+- https://getbootstrap.com/docs/5.3/layout/grid/#example
 -
 -
 -
