@@ -14,18 +14,22 @@ This capstone will showcase some insight about what I've learned so far in my fi
 
 ---
 
-[x] flip card [x] book checkout
-[x] html [x] picture overlay opacity
-[x] javascript [x] add to cart
-[x] bootstrap
-[x] css
+- [x] flip card
+- [x] book checkout
+- [x] html
+- [x] picture overlay opacity
+- [x] javascript
+- [x] add to cart
+- [x] bootstrap
+- [x] css
+- [x]
 
-# Wirefram
+# Wireframe
 
-![blueprint of capstone](pick.jpg)
-![blueprint of capstone](pick1.jpg)
-![blueprint of capstone](pick2.jpg)
-![blueprint of capstone](pick3.jpg)
+!<img src='img/pick1.jpg' alt='wireframe' width='200' height='200'>
+!<img src='img/pick2.jpg' alt='wireframe' width='200' height='200'>
+!<img src='img/pick3.jpg' alt='wireframe' width='200' height='200'>
+!<img src='img/pick4.jpg' alt='wireframe' width='200' height='200'>
 
 # Contact
 
@@ -37,9 +41,14 @@ Author: Louis Perkins -laperkins2@yahoo.com
 
 ---
 
--Robert McCreary Mannino- Instructor
-
+- Robert McCreary Mannino- Instructor
+- Desmond Garrison- CLassmate
+- Nickolas Smith- Classmate
+- Walter Sias- Classmate
 - https://getbootstrap.com/docs/5.3/layout/grid/#example
--
--
--
+- https://www.w3schools.com/jsref/prop_win_localstorage.asp
+- https://www.w3schools.com/jsref/api_storage.asp
+- https://www.w3schools.com/jsref/jsref_obj_json.asp
+- https://dev.to/haamid/local-storage-for-shopping-cart-in-javascript-2mef
+- https://www.w3schools.com/howto/tryit.asp?filename=tryhow_css_checkout_form
+- https://www.w3schools.com/js/tryit.asp?filename=tryjs_array_for_in
