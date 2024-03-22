@@ -22,6 +22,7 @@ This capstone will showcase some insight about what I've learned so far in my fi
 - [x] add to cart
 - [x] bootstrap
 - [x] css
+- [x] localStorage
 
 # Wireframe
 
