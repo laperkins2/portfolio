@@ -9,3 +9,25 @@
   margin-left: 100px;
   margin-top: 20px;
 }
+h1,
+h2 {
+  text-align: center;
+}
+#pic {
+  width: 50%;
+}
+#pic1 {
+  width: 60%;
+}
+#pic2 {
+  width: 100%;
+}
+#div1 {
+  width: 400px;
+}
+#div2 {
+  text-align: center;
+}
+a {
+  color: black;
+}

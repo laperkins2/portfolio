@@ -3,11 +3,11 @@ let total = 0;
 let cart = {};
 
 if (localStorage.getItem('addUp')) {
-  addUp = parseInt(localStorage.getItem('addUp'));
+  addUp = Number(localStorage.getItem('addUp'));
 }
 
 if (localStorage.getItem('total')) {
-  total = parseInt(localStorage.getItem('total'));
+  total = Number(localStorage.getItem('total'));
 }
 
 if (localStorage.getItem('cart')) {
